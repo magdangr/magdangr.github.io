@@ -3,10 +3,11 @@
     background-color: #fff;
     border: 5px solid #000;
     height: 40px;
-    -webkit-appearance: none;
 }
 
+.progress-bar::-webkit-progress-bar,
 .progress-bar::-webkit-progress-value {
+    width: 70%;
     background-color: #AF60BC;
 }
 

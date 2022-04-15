@@ -2,7 +2,7 @@
     box-sizing: border-box;
     background-image: url(../../assets/img/painel.png);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     height: 720px;
     border-bottom: 10px solid #000;
 }
