@@ -1,4 +1,4 @@
-.header {
+.main-header {
     display: flex;
     background-color: #AF60BC;
     justify-content: space-between;
@@ -7,7 +7,7 @@
     
 }
 
-.header .logo {
+.main-header .logo {
     height: 60px;
     width: 60px;
 }
