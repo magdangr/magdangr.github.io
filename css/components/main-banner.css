@@ -1,4 +1,4 @@
-.banner {
+.main-banner {
     box-sizing: border-box;
     background-image: url(../../assets/img/painel.png);
     background-repeat: no-repeat;
@@ -7,7 +7,7 @@
     border-bottom: 10px solid #000;
 }
 
-.banner .wrapper {
+.main-banner .wrapper {
     display: flex;
     flex-direction: column;
     width: 650px;
@@ -15,11 +15,11 @@
     padding-left: 90px;
 }
 
-.banner .box {
+.main-banner .box {
     margin-bottom: 40px;
 }
 
-.banner .navigation {
+.main-banner .navigation {
     display: flex;
     justify-content: space-around;
 }
